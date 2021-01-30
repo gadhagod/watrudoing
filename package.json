@@ -1,0 +1,22 @@
+{
+  "name": "watrudoing",
+  "version": "1.0",
+  "description": "A shell that makes fun of you when you mess up on the command line.",
+  "main": "main.sh",
+  "scripts": {
+    "test": "watrudoing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadhagod/watrudoing.git"
+  },
+  "author": "Aarav Borthakur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gadhagod/watrudoing/issues"
+  },
+  "homepage": "https://github.com/gadhagod/watrudoing#readme",
+  "bin": {
+    "watrudoing": "./main.sh"
+  }
+}
